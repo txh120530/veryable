@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/veryable/static/css/main.42286c7d.chunk.css",
+    "main.js": "/veryable/static/js/main.23969368.chunk.js",
+    "main.js.map": "/veryable/static/js/main.23969368.chunk.js.map",
+    "runtime-main.js": "/veryable/static/js/runtime-main.40d6daf1.js",
+    "runtime-main.js.map": "/veryable/static/js/runtime-main.40d6daf1.js.map",
+    "static/js/2.d9897789.chunk.js": "/veryable/static/js/2.d9897789.chunk.js",
+    "static/js/2.d9897789.chunk.js.map": "/veryable/static/js/2.d9897789.chunk.js.map",
+    "static/js/3.cc6d9b52.chunk.js": "/veryable/static/js/3.cc6d9b52.chunk.js",
+    "static/js/3.cc6d9b52.chunk.js.map": "/veryable/static/js/3.cc6d9b52.chunk.js.map",
+    "index.html": "/veryable/index.html",
+    "static/css/main.42286c7d.chunk.css.map": "/veryable/static/css/main.42286c7d.chunk.css.map",
+    "static/js/2.d9897789.chunk.js.LICENSE.txt": "/veryable/static/js/2.d9897789.chunk.js.LICENSE.txt",
+    "static/media/expand_less.9b6569a9.svg": "/veryable/static/media/expand_less.9b6569a9.svg",
+    "static/media/expand_more.1afc4c76.svg": "/veryable/static/media/expand_more.1afc4c76.svg",
+    "static/media/group.8ee15c94.svg": "/veryable/static/media/group.8ee15c94.svg",
+    "static/media/logo.6ce24c58.svg": "/veryable/static/media/logo.6ce24c58.svg",
+    "static/media/user.60c17ce3.svg": "/veryable/static/media/user.60c17ce3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40d6daf1.js",
+    "static/js/2.d9897789.chunk.js",
+    "static/css/main.42286c7d.chunk.css",
+    "static/js/main.23969368.chunk.js"
+  ]
+}
