@@ -1,24 +1,25 @@
 import logo from './logo.svg';
 import './App.css';
+import users from './server/users.json';
+
+
+import Header from './components/Header.js'
+import CardsContainer from './components/CardsContainer.js'
+
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Header />
+
+    <main className="m-3">
+      <div className="cards container max-w-sm mx-auto">
+        <CardsContainer users={users} />
+      </div>
+    </main>
+    </>
   );
 }
 
